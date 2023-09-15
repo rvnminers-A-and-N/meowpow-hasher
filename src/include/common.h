@@ -1,10 +1,11 @@
 // Copyright (c) 2014 The Bitcoin Core developers
 // Copyright (c) 2017-2019 The Raven Core developers
+// Copyright (c) 2022-2023 The Meowcoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef RAVEN_CRYPTO_COMMON_H
-#define RAVEN_CRYPTO_COMMON_H
+#ifndef MEOWCOIN_CRYPTO_COMMON_H
+#define MEOWCOIN_CRYPTO_COMMON_H
 
 #include <stdint.h>
 #include <string.h>
@@ -97,4 +98,4 @@ uint64_t static inline CountBits(uint64_t x)
     return ret;
 }
 
-#endif // RAVEN_CRYPTO_COMMON_H
+#endif // MEOWCOIN_CRYPTO_COMMON_H

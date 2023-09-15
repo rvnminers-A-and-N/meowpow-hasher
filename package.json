@@ -15,13 +15,13 @@
   "scripts": {
     "test": "node test"
   },
-  "homepage": "https://github.com/rvnminers-A-and-N/hasher-kawpow/tree/meowpow-hasher",
+  "homepage": "https://github.com/rvnminers-A-and-N/meowpow-hasher/tree/meowpow-hasher",
   "bugs": {
-    "url": "https://github.com/rvnminers-A-and-N/hasher-kawpow/issues"
+    "url": "https://github.com/rvnminers-A-and-N/meowpow-hasher/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rvnminer-A-and-N/hasher-kawpow.git"
+    "url": "https://github.com/rvnminer-A-and-N/meowpow-hasher.git"
   },
   "engines": {
     "node": ">=8.17.0"
