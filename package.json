@@ -1,0 +1,29 @@
+{
+  "name": "meowpow-hasher",
+  "version": "1.0.0",
+  "description": "MeowPOW algorithm hashing and verification functions for NodeJS.",
+  "main": "index.js",
+  "author": "Alpha|Crypticwizardry.com",
+  "license": "MIT",
+  "dependencies": {
+    "bindings": "^1.3.0",
+    "nan": "^2.6.2"
+  },
+  "devDependencies": {
+    "cmake-js": "^4.0.1"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "homepage": "https://github.com/rvnminers-A-and-N/hasher-kawpow/tree/meowpow-hasher",
+  "bugs": {
+    "url": "https://github.com/rvnminers-A-and-N/hasher-kawpow/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvnminer-A-and-N/hasher-kawpow.git"
+  },
+  "engines": {
+    "node": ">=8.17.0"
+  }
+}
