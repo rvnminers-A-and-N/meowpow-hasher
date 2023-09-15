@@ -24,6 +24,6 @@
     "url": "https://github.com/rvnminer-A-and-N/meowpow-hasher.git"
   },
   "engines": {
-    "node": ">=8.17.0"
+    "node": ">=12.13.0"
   }
 }
